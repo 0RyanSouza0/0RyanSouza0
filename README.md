@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I´am Ryan Souza 
 
-<!--
-**0RyanSouza0/0RyanSouza0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### I am a student of *Analysis and Systems Development* at **Fatec Ferraz de Vasconcelos**. I am specializing in various programming languages because I aspire to become a *FullStack Developer*. However, I have my favorite languages, which are:
 
-Here are some ideas to get you started:
+## Favorite Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️  See my portfolio at RyanSouza [portfolio](https://ryan-souza-react.vercel.app/)
+###### Feel free to reach out to me for collaboration or discussions on anything related to technology and development! 
+## Contact me
+<a href="https://www.linkedin.com/in/ryan-dias-367813300/" target="_blank" alt="Linkedin">
+
+  ![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
